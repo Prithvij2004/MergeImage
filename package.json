@@ -1,0 +1,13 @@
+{
+  "name": "merge_image",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "merge-image": "^1.0.0"
+  },
+  "dependencies": {
+    "canvas": "^2.10.1",
+    "merge-images": "^2.0.0"
+  }
+}
